@@ -24,6 +24,10 @@ insecure = true
 
 后者网上有很多教程，这里不说了。这里说下用前一种方式：修改bazel rule_docker代码。
 
+> 首先声明：肯定是选择后者方案，采用前者方案（支持不安全镜像仓库的标志support insecure flag）是愚蠢的行为。
+
+
+
 # 使用方法
 
 
