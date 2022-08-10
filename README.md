@@ -103,3 +103,4 @@ INFO: Build completed successfully, 2 total actions
 ```
 
 将旧的rules_docker替换成新的，发现可以推送镜像到http的镜像仓库了。
+
